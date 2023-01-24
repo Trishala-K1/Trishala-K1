@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trishala!
 - I’m currently studying Cybersecurity at NYU
-- This is a private GitHub repository for CSGY 6843
+
 
 
 <!---
