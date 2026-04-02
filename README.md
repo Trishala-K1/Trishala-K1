@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trishala!
-- I’m currently studying Cybersecurity at NYU
+- NYU 2025
 
 
 
